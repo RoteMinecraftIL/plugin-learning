@@ -1,0 +1,10 @@
+main: com.roteminecraftil.te2.Tutorial
+version: 1.0
+name: Tutorial Plugin Player
+
+commands:
+ hello:
+   description: Sends the player a message.
+
+ goodbye:
+  description: teleports the player to x0 y64 z0
